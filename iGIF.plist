@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://pan.baidu.com/s/1qW6u8dY</string>
+					<string>http://www.a-box.com.cn/dl/i/AmazingBox_Phone.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tomkidgame.gifCreator</string>
+				<string>com.dhc.AmazingBOXPhoneEn</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
